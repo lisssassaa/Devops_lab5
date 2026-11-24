@@ -6,7 +6,7 @@
 
 ## Вносим изменения в playbook.yml
 
-<img width="554" height="456" alt="image" src="https://github.com/user-attachments/assets/03c295bb-b097-4009-bf50-ee60a8919707" />
+<img width="575" height="478" alt="image" src="https://github.com/user-attachments/assets/586cb21f-ce5a-41eb-a425-ccb73490e70c" />
 
 ## Проверяем что все работает 
 
